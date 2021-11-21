@@ -1,0 +1,15 @@
+{
+  "name": "customauthbot",
+  "version": "1.0.0",
+  "description": "カスタム認証BOT",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yutarou12",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  }
+}
